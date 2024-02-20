@@ -8,7 +8,7 @@ import com.raywenderlich.android.lab1.router.FundamentalsRouter
 import com.raywenderlich.android.lab1.router.Screen
 
 @Composable
-fun ScaffoldSreen() {
+fun ScaffoldScreen() {
     MyScaffold()
 
     BackButtonHandler {
