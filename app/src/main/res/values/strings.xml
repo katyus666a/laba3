@@ -17,6 +17,9 @@
     <string name="third">Третий</string>
     <string name="button_row">Контейнер Row</string>
     <string name="button_column">Контейнер Column</string>
-    <string name="button_box">Контейнер Column</string>
+    <string name="button_box">Контейнер Box</string>
     <string name="button_surface">Контейнер Surface</string>
+    <string name="menu">Menu</string>
+    <string name="MyComposeApp">MyComposeApp</string>
+    <string name="button_scaffold">Контейнер Scaffold</string>
 </resources>
