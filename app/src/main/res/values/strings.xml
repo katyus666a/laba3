@@ -26,4 +26,9 @@
     <string name="kotlin">Kotlin</string>
     <string name="swift">Swift</string>
     <string name="ios">Ios</string>
+    <string name="architecture">Усовершенствованная архитектура Android</string>
+    <string name="learn_kotlin">"Изучение Kotlin "</string>
+    <string name="coroutines">Корутины в Kotlin</string>
+    <string name="scrolling">"Прокрутка "</string>
+
 </resources>
